@@ -1,0 +1,9 @@
+# IDE / sistema operativo
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# File locali di MySQL Workbench e dump
+*.log
+*.bak
